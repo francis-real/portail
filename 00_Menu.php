@@ -23,7 +23,7 @@
 
 	<div class="menu">
 	   
-			<a id="lienMenu" href="index.php" >//Retour au portail//</a>
+			<a id="lienMenu" href="index.html" >//Retour au portail//</a>
 			 </br>
 			 
 			<a href="blog300kms_page1.php" >/ /Prologue</a>
